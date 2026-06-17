@@ -2,7 +2,7 @@
 
 A sleek, interactive local file management utility built with Python and Streamlit. This application transitions a traditional CLI-based file handler into a modern visual dashboard.
 
-👉 **[Live App Link](https://learning-python-from-nyc-0.streamlit.app/)**
+👉 **[Live App Link](https://pyfile-manager1.streamlit.app/)**
 
 ## ✨ Features
 * **Create Files:** Easily create text files with initial data injections.
