@@ -18,4 +18,4 @@ A sleek, interactive local file management utility built with Python and Streaml
 ## 🚀 How to Run Locally
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/mokshthakur2007-star/Learning-python-from-NYC.git](https://github.com/mokshthakur2007-star/Learning-python-from-NYC.git)
+   git clone [https://github.com/mokshthakur2007-star/pyfile-manager.gitt)
